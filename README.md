@@ -105,4 +105,4 @@ Feel free to submit issues or pull requests. For significant changes, please ope
 
 ## Contact
 
-For questions or support, contact [your-email@example.com](mailto:samwelwilson141@gmail.com).
+For questions or support, contact [samwelwilson141@gmail.com](mailto:samwelwilson141@gmail.com).
